@@ -1,6 +1,6 @@
-<h1 align="center"><b> ᴛʜᴇ 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> QUEEN 🎭LANKA⚡ LITE  </b></h1>
 
-![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
+![logo](https://i.ibb.co/0Xzsqf1/In-Shot-20220218-194616984.jpg)
 
 
 
@@ -62,10 +62,11 @@
 
   </a>
 </p>
+
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Queen-Lanka-lite)
 #### ඔබට පහසුවෙන් Termux භාවිතා කිරීමෙන්  QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
 
 Termux:

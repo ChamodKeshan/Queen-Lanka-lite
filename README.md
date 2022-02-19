@@ -8,15 +8,13 @@
 <p align="center">
     Project of 🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">TeenuhX Whatsapp </a> |
-        <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
         
+    
     <Enjoy & stay safe stay home>
 </p>
 ---------------
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
